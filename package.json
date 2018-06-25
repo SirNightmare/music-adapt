@@ -1,0 +1,58 @@
+{
+  "_from": "music-adapt",
+  "_id": "music-adapt@1.0.0",
+  "_inBundle": false,
+  "_location": "/discord.js-sylveon-music",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "music-adapt",
+    "name": "music-adapt",
+    "escapedName": "music-adapt",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_spec": "music-adapt",
+  "_where": "C:\\Users\\Oliver\\Desktop\\lololo",
+  "author": {
+    "name": "Oliver Kennewell"
+  },
+  "bugs": {
+    "url": "https://github.com/SirNightmare/discord.js-sylveon-music/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "youtube-playlist-info": "^0.1.0",
+    "ytdl-core": "^0.20.3",
+    "ytsearcher": "^1.0.3"
+  },
+  "deprecated": false,
+  "description": "A music bot addon for Discord.js bots, using YouTube. Simply add it to a bot or run it entirely by itself.",
+  "homepage": "https://github.com/SirNightmare/discord.js-sylveon-music",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "music",
+    "bot",
+    "addon",
+    "sylveon"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "music-adapt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirNightmare/discord.js-sylveon-music"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
